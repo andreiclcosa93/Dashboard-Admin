@@ -1,3 +1,20 @@
+![1screencapture-127-0-0-1-8000-login-1](https://user-images.githubusercontent.com/100482638/209995812-b529bcd7-1ea0-4719-9680-80750412f309.png)
+![2screencapture-127-0-0-1-8000-register-2022](https://user-images.githubusercontent.com/100482638/209995816-dd4a8207-5aa1-4cb4-ae78-ec16b859f23b.png)
+![3screencapture-127-0-0-1-8000-forgot-password-2022](https://user-images.githubusercontent.com/100482638/209995817-609c22fc-8821-4526-b380-885765b1e17b.png)
+![4screencapture-127-0-0-1-8000-forgot-password-2022](https://user-images.githubusercontent.com/100482638/209995821-892e4193-9176-44d9-8e20-cc2a6f90ac26.png)
+![5screencapture-127-0-0-1-8000-forgot-password-2022](https://user-images.githubusercontent.com/100482638/209995824-6299ed1d-3c6c-424d-a757-f84a91b29202.png)
+![6screencapture-127-0-0-1-8000-reset-password](https://user-images.githubusercontent.com/100482638/209995825-f75bbfd7-895b-406d-bbe1-71d64ae6d596.png)
+![7screencapture-127-0-0-1-8000-dashboard-2022](https://user-images.githubusercontent.com/100482638/209995828-6e71c1d3-f60b-4d85-8f45-5010e76ea217.png)
+![8screencapture-127-0-0-1-8000-admin-profile-1-2022](https://user-images.githubusercontent.com/100482638/209995829-fbc7d798-d95e-4949-871b-0970da3f7dd4.png)
+![9screencapture-127-0-0-1-8000-admin-users-2022](https://user-images.githubusercontent.com/100482638/209995834-6090ceda-24a1-44a6-8a02-411524c52cfd.png)
+![10screencapture-127-0-0-1-8000-admin-user-new-2022](https://user-images.githubusercontent.com/100482638/209995835-96c7ca38-5eb7-4619-b18c-ba142146f882.png)
+![11screencapture-127-0-0-1-8000-admin-user-new-2022](https://user-images.githubusercontent.com/100482638/209995837-fcdfe776-f646-4d25-8010-e164b613c0c7.png)
+![screencapture-127-0-0-1-8000-admin-user-edit-1-2022-12-29-18_47_14](https://user-images.githubusercontent.com/100482638/209995842-59c1853d-0b88-4275-b149-27445ffd572b.png)
+![screencapture-127-0-0-1-8000-admin-user-edit-1-2022-12-29-18_49_31](https://user-images.githubusercontent.com/100482638/209995843-37367022-f2ba-4531-a947-a9e018a4d91f.png)
+![screencapture-127-0-0-1-8000-admin-users-2022-12-29-18_49_58](https://user-images.githubusercontent.com/100482638/209995844-163dbab8-9d7f-414f-9b49-ccb77b251f74.png)
+![screencapture-127-0-0-1-8000-dashboard-2022-12-29-18_44_49](https://user-images.githubusercontent.com/100482638/209995846-0196ecaf-0b70-4c5b-befe-f7bd4154597c.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
